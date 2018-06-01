@@ -220,7 +220,13 @@ footer {
 /* selectors for form */
 form {
 	margin-top: 27px;
+	width: 100%;
 }
+
+#form
+{
+	width: 100%;
+	}
 
 input, textarea {
 	border: 1px solid #dddddd;
