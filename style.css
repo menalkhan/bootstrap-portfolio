@@ -204,16 +204,12 @@ footer {
 .portfolio_pic_text_block {
 	background: #63298C;
 	width: 100%;
-	height: auto;
 	margin-top: 136px;
 	padding-top: 20px;
-	position: absolute;
-
 	font-family: 'Georgia', Times, Times New Roman, serif;
 	font-size: 22px;
 	color: white;
 	text-align: center;
-
 	transition: all 0.2s linear;
 }
 
